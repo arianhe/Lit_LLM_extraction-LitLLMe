@@ -1,0 +1,781 @@
+name,SimplifiedDisease,Disease,TissueOfOrigin,url,catalogueNumber,Collection,Species
+MLA144,Sarcoma,Lymphosarcoma,Other,https://www.culturecollections.org.uk/nop/product/mla144,86102901,General Cell,Monkey
+ZR-75-1,Carcinoma,Ductal Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/zr-75-1,87012601,General Cell,Human
+Clone M-3,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/clone-m-3,87081806,General Cell,Mouse
+SW480,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/sw480,87092801,General Cell,Human
+CRI-G5,Other,Insulinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/cri-g5,88031603,General Cell,Rat
+AV3 (HeLa derivative),Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/av3-hela-derivative,88102402,General Cell,Human
+XC,Sarcoma,Sarcoma,Muscle,https://www.culturecollections.org.uk/nop/product/xc,88120601,General Cell,Rat
+HL60 Ast.3,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/hl60-ast3,88120801,General Cell,Human
+HL60 Ast.4,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/hl60-ast4,88120802,General Cell,Human
+FEL,Carcinoma,Adenocarcinoma,Embryo,https://www.culturecollections.org.uk/nop/product/fel,89020802,General Cell,Rabbit
+I-10,Tumour,Leydig Cell Tumour,Testis,https://www.culturecollections.org.uk/nop/product/i-10,89031605,General Cell,Mouse
+DDT1-MF2,Sarcoma,Leiomyosarcoma,Testis,https://www.culturecollections.org.uk/nop/product/ddt1-mf2,89051703,General Cell,Hamster
+C127I,Tumour,Tumour,Mammary gland,https://www.culturecollections.org.uk/nop/product/c127i,90060504,General Cell,Mouse
+KU-812F,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/ku-812f,90071804,General Cell,Human
+LL86 (LeSa),Cancer,Normal Tissue from Cancer Patient,Lung,https://www.culturecollections.org.uk/nop/product/ll86-lesa,90102541,General Cell,Human
+GS-109-V-63,Cancer,Normal Tissue from Cancer Patient,Skin,https://www.culturecollections.org.uk/nop/product/gs-109-v-63,90110503,General Cell,Human
+KLN 205,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/kln-205,90110519,General Cell,Mouse
+MOPC 31C,Other,Plasmacytoma,Blood,https://www.culturecollections.org.uk/nop/product/mopc-31c,90110707,General Cell,Mouse
+Detroit 573,Other,Multiple Congenital Anomalies,Skin,https://www.culturecollections.org.uk/nop/product/detroit-573,90112601,General Cell,Human
+Hs 888Lu,Cancer,Normal Tissue from Cancer Patient,Lung,https://www.culturecollections.org.uk/nop/product/hs-888lu,90112709,General Cell,Human
+H69V,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/h69v,91091803,General Cell,Human
+RAJI TK-,Lymphoma,Burkitt Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/raji-tk-,91112125,General Cell,Human
+COR-L47,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/cor-l47,92031915,General Cell,Human
+ND3,Blastoma,Neuroblastoma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/nd3,92090901,General Cell,Hybrid
+ND7/23,Blastoma,Neuroblastoma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/nd723,92090903,General Cell,Hybrid
+ND8/34,Blastoma,Neuroblastoma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/nd834,92090904,General Cell,Hybrid
+ECV304,Carcinoma,Carcinoma,Bladder,https://www.culturecollections.org.uk/nop/product/ecv304,92091712,General Cell,Human
+Hepa 1-6,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/hepa-1-6,92110305,General Cell,Mouse
+RN 22,Other,Schwannoma,Nerve,https://www.culturecollections.org.uk/nop/product/rn-22,93011414,General Cell,Rat
+TF1,Leukaemia,Erythroleukaemia,Blood,https://www.culturecollections.org.uk/nop/product/tf1,93022307,General Cell,Human
+COLO 320 DMF,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/colo-320-dmf,93051118,General Cell,Human
+COLO 699 N,Carcinoma,Adenocarcinoma,Lymph node,https://www.culturecollections.org.uk/nop/product/colo-699-n,93052608,General Cell,Human
+COLO 858,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/colo-858,93052613,General Cell,Human
+M1,Leukaemia,Myelogenous Leukaemia,Bone,https://www.culturecollections.org.uk/nop/product/m1-2,93120826,General Cell,Mouse
+RPMI 1846,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/rpmi-1846-2,93120834,General Cell,Hamster
+COLO 738,Other,Melanoma,Lung,https://www.culturecollections.org.uk/nop/product/colo-738,94072238,General Cell,Human
+G,Carcinoma,Adenocarcinoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/g,94101453,General Cell,Rat
+MAT-LyLu,Carcinoma,Adenocarcinoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/mat-lylu,94101454,General Cell,Rat
+DMS 153,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/dms-153,95062827,General Cell,Human
+RIN-m,Tumour,Islet Cell Tumour,Pancreas,https://www.culturecollections.org.uk/nop/product/rin-m,95071701,General Cell,Rat
+P19,Carcinoma,Carcinoma,Embryo,https://www.culturecollections.org.uk/nop/product/p19,95102107,General Cell,Mouse
+COR-L24,Cancer,Small Cell Cancer,Lymph node,https://www.culturecollections.org.uk/nop/product/cor-l24,96020717,General Cell,Human
+NCI-H69/LX4,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/nci-h69lx4,96042329,General Cell,Human
+MOR/0.2R,Carcinoma,Adenocarcinoma,Lung,https://www.culturecollections.org.uk/nop/product/mor02r,96042335,General Cell,Human
+J.CaM1.6,Leukaemia,Lymphoblastic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/jcam16,96060401,General Cell,Human
+Eos-HL-60,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/eos-hl-60,96100920,General Cell,Human
+C32TG (melanoma),Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/c32tg-melanoma,96020925,General Cell,Human
+IMR-33,Other,Fibroma,Connective tissue,https://www.culturecollections.org.uk/nop/product/imr-33,96020931,General Cell,Gerbil
+1411H,Carcinoma,Carcinoma,Other,https://www.culturecollections.org.uk/nop/product/1411h,06011805,General Cell,Human
+1777N Rpmet,Carcinoma,Carcinoma,Other,https://www.culturecollections.org.uk/nop/product/1777n-rpmet,06011801,General Cell,Human
+HCA-7,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-7,06061902,General Cell,Human
+RT4/31,Other,Papilloma,Bladder,https://www.culturecollections.org.uk/nop/product/rt431,86082102,General Cell,Human
+L5178Y-S (LY-S),Lymphoma,Lymphoma,Other,https://www.culturecollections.org.uk/nop/product/l5178y-s-ly-s,93050408,General Cell,Mouse
+COV644,Carcinoma,Carcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/cov644,07071908,General Cell,Human
+COV413B,Carcinoma,Carcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/cov413b,07071906,General Cell,Human
+PE/CA-PJ34 (clone C12),Carcinoma,Squamous Cell Carcinoma,Mouth,https://www.culturecollections.org.uk/nop/product/peca-pj34-clone-c12,97062513,General Cell,Human
+KHOS/NP,Sarcoma,Osteosarcoma,Bone,https://www.culturecollections.org.uk/nop/product/khosnp,84102903,General Cell,Human
+MOPC 315,Myeloma,Myeloma,Other,https://www.culturecollections.org.uk/nop/product/mopc-315,85022106,General Cell,Mouse
+RAMOS,Lymphoma,Burkitt Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ramos,85030802,General Cell,Human
+TR33B,Other,Oligodendroglioma,Brain,https://www.culturecollections.org.uk/nop/product/tr33b,85040102,General Cell,Rat
+HeLa B,Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela-b,85060701,General Cell,Human
+TA3 Hauschka,Carcinoma,Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/ta3-hauschka,85061102,General Cell,Mouse
+T24/83,Carcinoma,Carcinoma,Bladder,https://www.culturecollections.org.uk/nop/product/t2483,85061107,General Cell,Human
+RAMOS-AW,Lymphoma,Burkitt Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ramos-aw,85062003,General Cell,Human
+Y1,Carcinoma,Carcinoma,Adrenal gland,https://www.culturecollections.org.uk/nop/product/y1,85062807,General Cell,Mouse
+WiDr,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/widr,85111501,General Cell,Human
+CCRF-HSB-2,Leukaemia,Lymphoblastic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/ccrf-hsb-2,85112801,General Cell,Human
+YAC-1,Lymphoma,Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/yac-1,86022801,General Cell,Mouse
+HEp-2 (HeLa derivative),Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hep-2-hela-derivative,86030501,General Cell,Human
+HRT-18,Carcinoma,Adenocarcinoma,Rectum,https://www.culturecollections.org.uk/nop/product/hrt-18,86040306,General Cell,Human
+IMR 32,Blastoma,Neuroblastoma,Other,https://www.culturecollections.org.uk/nop/product/imr-32,86041809,General Cell,Human
+WR19L,Lymphoma,Lymphoma,Other,https://www.culturecollections.org.uk/nop/product/wr19l,95050414,General Cell,Mouse
+N115-BU-7,Carcinoma,Carcinoma,Nerve,https://www.culturecollections.org.uk/nop/product/n115-bu-7,08062554,General Cell,Mouse
+108CC5-TG-1,Blastoma,Neuroblastoma/Glioma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/108cc5-tg-1,08062543,General Cell,Hybrid
+108CC5-TG-3,Blastoma,Neuroblastoma/Glioma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/108cc5-tg-3,08062545,General Cell,Hybrid
+54SCC3,Blastoma,Neuroblastoma/Glioma Hybrid,Other,https://www.culturecollections.org.uk/nop/product/54scc3,08062561,General Cell,Hybrid
+328/9,Other,Glioma,Nerve,https://www.culturecollections.org.uk/nop/product/3289,08062533,General Cell,Mouse
+328/12,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/32812,08062540,General Cell,Mouse
+NS20Y-BU-5,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/ns20y-bu-5,08062504,General Cell,Mouse
+MT-2,Blastoma,Neuroblastoma,Not Specified,https://www.culturecollections.org.uk/nop/product/mt-2-2,08081401,General Cell,Human
+HRA-19a1.1 Alpha2Alpha1 E,Tumour,Tumour,Rectum,https://www.culturecollections.org.uk/nop/product/hra-19a11-alpha2alpha1-e,09071527,General Cell,Human
+HCA-7 Colony 26,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-7-colony-26,09071511,General Cell,Human
+HRA-19a1.1,Carcinoma,Adenocarcinoma,Rectum,https://www.culturecollections.org.uk/nop/product/hra-19a11,09071517,General Cell,Human
+HRA-19a1.1 Alpha2 F,Carcinoma,Adenocarcinoma,Rectum,https://www.culturecollections.org.uk/nop/product/hra-19a11-alpha2-f,09071520,General Cell,Human
+Mero-14,Carcinoma,Adenocarcinoma,Lung,https://www.culturecollections.org.uk/nop/product/mero-14,09100101,General Cell,Human
+Mero-25,Carcinoma,Adenocarcinoma,Lung,https://www.culturecollections.org.uk/nop/product/mero-25,09100102,General Cell,Human
+Mero-41,Carcinoma,Adenocarcinoma,Lung,https://www.culturecollections.org.uk/nop/product/mero-41,09100103,General Cell,Human
+Mero-82,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/mero-82,09100105,General Cell,Human
+MM415,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm415-2,10092319,General Cell,Human
+AE17,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/ae17-2,10092310,General Cell,Mouse
+CACO-2,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/caco-2-2,09042001,General Cell,Human
+HeLa/MMTV-luc,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/helammtv-luc,11033106,General Cell,Human
+ZL34,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/zl34,11120713,General Cell,Human
+FM-55-p.R22.2,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-55-pr222,13012462,General Cell,Human
+FM-28,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-28,13012412,General Cell,Human
+FM-58,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-58,13012414,General Cell,Human
+FM-78,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-78,13012420,General Cell,Human
+RCC BA85#21 (ELTHEM),Carcinoma,Carcinoma,Kidney,https://www.culturecollections.org.uk/nop/product/rcc-ba8521-elthem,13051601,General Cell,Human
+FM-79,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-79,13012423,General Cell,Human
+L5178Y tk+/- 3.7.2c (IVGT),Leukaemia,Leukaemia,Other,https://www.culturecollections.org.uk/nop/product/l5178y-tk-372c-ivgt,12080201,General Cell,Mouse
+Ma-Mel-8a,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/ma-mel-8a,13012434,General Cell,Human
+Ma-Mel-54a,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ma-mel-54a,13012484,General Cell,Human
+Ma-Mel-45a,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ma-mel-45a,13012486,General Cell,Human
+NZM3,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/nzm3,17020204,General Cell,Human
+NZM12,Other,Melanoma,Intestine,https://www.culturecollections.org.uk/nop/product/nzm12,17020210,General Cell,Human
+NZM42,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/nzm42,17020213,General Cell,Human
+HT29-MTX resistant (100 microMolar),Cancer,Cancer,Colon,https://www.culturecollections.org.uk/nop/product/ht29-mtx-resistant-100-micromolar,15121710,General Cell,Human
+RBL-1,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/rbl-1,86061001,General Cell,Rat
+HeLa H2B-2FP,Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela-h2b-2fp,21102108,General Cell,Human
+1321N1,Other,Astrocytoma,Brain,https://www.culturecollections.org.uk/nop/product/1321n1,86030402,General Cell,Human
+KARPAS-25,Myeloma,Myeloma,Bone,https://www.culturecollections.org.uk/nop/product/karpas-25,06072601,General Cell,Human
+HeLa-Mitotrap-Ap1g1-FKBP,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela-mitotrap-ap1g1-fkbp,15042203,General Cell,Human
+CFPAC-1,Carcinoma,Adenocarcinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/cfpac-1,91112501,General Cell,Human
+AsPC-1,Carcinoma,Adenocarcinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/aspc-1,96020930,General Cell,Human
+CESS,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/cess,92110206,General Cell,Human
+DMS 79,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/dms-79,95062824,General Cell,Human
+CHP-134,Blastoma,Neuroblastoma,Adrenal gland,https://www.culturecollections.org.uk/nop/product/chp-134,06122002,General Cell,Human
+DAUDI,Lymphoma,Burkitt Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/daudi-2,85011437,General Cell,Human
+COR-L32,Carcinoma,Small Cell Carcinoma,Bone,https://www.culturecollections.org.uk/nop/product/cor-l32,96020744,General Cell,Human
+COLO 684,Carcinoma,Adenocarcinoma,Uterus,https://www.culturecollections.org.uk/nop/product/colo-684,87061203,General Cell,Human
+COR-L279,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/cor-l279,96020724,General Cell,Human
+DMS 273,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/dms-273,95062830,General Cell,Human
+COR L303,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/cor-l303,96020722,General Cell,Human
+ESO51,Carcinoma,Adenocarcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/eso51,11012010,General Cell,Human
+HuP-T4,Carcinoma,Adenocarcinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/hup-t4,93121056,General Cell,Human
+K562,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/k562,89121407,General Cell,Human
+HT29,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ht29,91072201,General Cell,Human
+G-401,Tumour,Rhabdoid Tumour,Kidney,https://www.culturecollections.org.uk/nop/product/g-401,87042204,General Cell,Human
+KARPAS-299,Lymphoma,Lymphoma,Other,https://www.culturecollections.org.uk/nop/product/karpas-299,06072604,General Cell,Human
+HT 1080,Sarcoma,Fibrosarcoma,Other,https://www.culturecollections.org.uk/nop/product/ht-1080,85111505,General Cell,Human
+MCF7,Carcinoma,Adenocarcinoma,Breast,https://www.culturecollections.org.uk/nop/product/mcf7,86012803,General Cell,Human
+LC-2/ad,Carcinoma,Adenocarcinoma,Lung,https://www.culturecollections.org.uk/nop/product/lc-2ad,94072247,General Cell,Human
+MDA-MB-157,Carcinoma,Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/mda-mb-157,92020422,General Cell,Human
+KARPAS-45,Leukaemia,Lymphoblastic Leukaemia,Bone,https://www.culturecollections.org.uk/nop/product/karpas-45,06072602,General Cell,Human
+MDA-MB-231,Carcinoma,Adenocarcinoma,Breast,https://www.culturecollections.org.uk/nop/product/mda-mb-231,92020424,General Cell,Human
+LoVo,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/lovo,87060101,General Cell,Human
+LIM1215,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/lim1215-2,10092301,General Cell,Human
+KELLY,Blastoma,Neuroblastoma,Brain,https://www.culturecollections.org.uk/nop/product/kelly,92110411,General Cell,Human
+PC-3,Carcinoma,Adenocarcinoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/pc-3,90112714,General Cell,Human
+Namalwa,Lymphoma,Burkitt Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/namalwa,87060801,General Cell,Human
+SCC-4,Carcinoma,Squamous Cell Carcinoma,Tongue,https://www.culturecollections.org.uk/nop/product/scc-4,89062002,General Cell,Human
+OAW42,Carcinoma,Cystadenocarcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/oaw42,85073102,General Cell,Human
+MOG-G-CCM,Other,Astrocytoma,Brain,https://www.culturecollections.org.uk/nop/product/mog-g-ccm,86022702,General Cell,Human
+NB69,Blastoma,Neuroblastoma,Brain,https://www.culturecollections.org.uk/nop/product/nb69,99072802,General Cell,Human
+SW 403,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/sw-403,87071008,General Cell,Human
+SW 1417,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/sw-1417,90102543,General Cell,Human
+SW 13,Carcinoma,Adrenal Cortex Carcinoma,Adrenal gland,https://www.culturecollections.org.uk/nop/product/sw-13,87031801,General Cell,Human
+U937,Lymphoma,Lymphoma,Lung,https://www.culturecollections.org.uk/nop/product/u937,85011440,General Cell,Human
+SK-OV-3,Carcinoma,Adenocarcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/sk-ov-3,91091004,General Cell,Human
+AR42J-B13,Carcinoma,Carcinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/ar42j-b13,20100101,General Cell,Rat
+U266B1,Myeloma,Myeloma/Plasmacytoma,Blood,https://www.culturecollections.org.uk/nop/product/u266b1,85051003,General Cell,Human
+VA-ES-BJ,Sarcoma,Sarcoma,Skin,https://www.culturecollections.org.uk/nop/product/va-es-bj,94092303,General Cell,Human
+NS0,Myeloma,Myeloma,Other,https://www.culturecollections.org.uk/nop/product/ns0,85110503,General Cell,Mouse
+LA1-5s,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/la1-5s,06041204,General Cell,Human
+DLKP-I,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/dlkp-i-2,20022602,General Cell,Human
+BeWo,Carcinoma,Gestational Choriocarcinoma,Placenta,https://www.culturecollections.org.uk/nop/product/bewo,86082803,General Cell,Human
+H-4-II-E,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/h-4-ii-e,87031301,General Cell,Rat
+6-23 (clone 6),Carcinoma,Carcinoma,Thyroid gland,https://www.culturecollections.org.uk/nop/product/6-23-clone-6,87042206,General Cell,Rat
+COLO 320DM,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/colo-320dm,87061205,General Cell,Human
+L1210,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/l1210,87092804,General Cell,Mouse
+HeLa S3,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela-s3,87110901,General Cell,Human
+WRC,Carcinoma,Adenocarcinoma,Mammary gland,https://www.culturecollections.org.uk/nop/product/wrc,88031148,General Cell,Rat
+J558L,Myeloma,Myeloma,Blood,https://www.culturecollections.org.uk/nop/product/j558l,88032902,General Cell,Mouse
+NFS-5 C1,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/nfs-5-c1,88041904,General Cell,Mouse
+PUTKO,Cancer,Cancer,Hybrid,https://www.culturecollections.org.uk/nop/product/putko,88042802,General Cell,Human
+ML-1,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/ml-1,88113007,General Cell,Human
+LC540,Other,Adenoma,Testis,https://www.culturecollections.org.uk/nop/product/lc540,89031604,General Cell,Rat
+H4II,Carcinoma,Hepatocellular Carcinoma,Skin,https://www.culturecollections.org.uk/nop/product/h4ii,89042702,General Cell,Rat
+59M,Carcinoma,Carcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/59m,89081802,General Cell,Human
+H4S,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/h4s,89102001,General Cell,Rat
+175BR,Carcinoma,Carcinoma,Skin,https://www.culturecollections.org.uk/nop/product/175br,90011863,General Cell,Human
+LL/2(LLc1),Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/ll2llc1,90020104,General Cell,Mouse
+HCT-8,Carcinoma,Adenocarcinoma,Intestine,https://www.culturecollections.org.uk/nop/product/hct-8,90032006,General Cell,Human
+KU-812E,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/ku-812e,90071803,General Cell,Human
+CTAC,Carcinoma,Adenocarcinoma,Thyroid gland,https://www.culturecollections.org.uk/nop/product/ctac,90071812,General Cell,Canine
+RR1022,Sarcoma,Rous Sarcoma Virus Tumour,Not Specified,https://www.culturecollections.org.uk/nop/product/rr1022,90102526,General Cell,Rat
+FL (HeLa derivative),Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/fl-hela-derivative,90111910,General Cell,Human
+H33HJ-JA1,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/h33hj-ja1,90112119,General Cell,Human
+CCD 13Lu,Carcinoma,Carcinoma/Neoplasms,Lung,https://www.culturecollections.org.uk/nop/product/ccd-13lu,90112704,General Cell,Human
+RAMOS (RA.1),Lymphoma,Burkitt Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ramos-ra1,91030710,General Cell,Human
+70Z/3,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/70z3,91092002,General Cell,Mouse
+RAJI TK+,Lymphoma,Burkitt Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/raji-tk,91112124,General Cell,Human
+Subclone 707 DAP8,Leukaemia,Erythroleukaemia,Blood,https://www.culturecollections.org.uk/nop/product/subclone-707-dap8,91112129,General Cell,Mouse
+C6,Other,Glioma,Nerve,https://www.culturecollections.org.uk/nop/product/c6,92090409,General Cell,Rat
+B16-F0,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/b16-f0,92101204,General Cell,Mouse
+HEL92.1.7,Leukaemia,Erythroleukaemia,Blood,https://www.culturecollections.org.uk/nop/product/hel9217,92111706,General Cell,Human
+RT4-D6P2T,Other,Schwannoma,Nerve,https://www.culturecollections.org.uk/nop/product/rt4-d6p2t,93011415,General Cell,Rat
+J45.01,Leukaemia,Lymphoblastic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/j4501,93031145,General Cell,Human
+A15,Other,Glioma,Brain,https://www.culturecollections.org.uk/nop/product/a15,93040110,General Cell,Rat
+NFS-25 C-3,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/nfs-25-c-3,93090713,General Cell,Mouse
+QT 35,Sarcoma,Fibrosarcoma,Muscle,https://www.culturecollections.org.uk/nop/product/qt-35,93120832,General Cell,Quail
+WKD (HeLa derivative),Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/wkd-hela-derivative,93120839,General Cell,Human
+RT 1,Sarcoma,Fibrosarcoma,Embryo,https://www.culturecollections.org.uk/nop/product/rt-1,94011416,General Cell,Rat
+KYSE-30,Carcinoma,Squamous Cell Carcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/kyse-30,94072011,General Cell,Human
+COLO 775,Myeloma,Myeloma,Blood,https://www.culturecollections.org.uk/nop/product/colo-775,94072236,General Cell,Human
+AT-1,Carcinoma,Adenocarcinoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/at-1,94101449,General Cell,Rat
+AT-3.1,Carcinoma,Adenocarcinoma,Skin,https://www.culturecollections.org.uk/nop/product/at-31,94101451,General Cell,Rat
+FGC4,Carcinoma,Hepatocellular Carcinoma,Skin,https://www.culturecollections.org.uk/nop/product/fgc4,94101904,General Cell,Rat
+H5,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/h5,94101905,General Cell,Rat
+C2-Rev 7,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/c2-rev-7,94101907,General Cell,Rat
+GS-9L,Other,Glioma,Nerve,https://www.culturecollections.org.uk/nop/product/gs-9l,94110705,General Cell,Rat
+X1/5,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/x15,95051229,General Cell,Human
+HR5,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hr5,95091409,General Cell,Human
+NCI-H69VCR/R,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/nci-h69vcrr,96042330,General Cell,Human
+COR-L23/CPR,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/cor-l23cpr,96042336,General Cell,Human
+L-41(HeLa derivative),Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/l-41hela-derivative,96121716,General Cell,Human
+F4N (MEL),Leukaemia,Erythroleukaemia,Blood,https://www.culturecollections.org.uk/nop/product/f4n-mel,96121718,General Cell,Mouse
+MH-22A,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/mh-22a,96121721,General Cell,Mouse
+Clone 15 HL-60,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/clone-15-hl-60,98052918,General Cell,Human
+HKT-1097,Tumour,Tumour,Kidney,https://www.culturecollections.org.uk/nop/product/hkt-1097,98061003,General Cell,Hamster
+Ishikawa,Carcinoma,Adenocarcinoma,Uterus,https://www.culturecollections.org.uk/nop/product/ishikawa,99040201,General Cell,Human
+T-3-CI-2-0.fl,Leukaemia,Leukaemia,Spleen,https://www.culturecollections.org.uk/nop/product/t-3-ci-2-0fl,99072804,General Cell,Mouse
+707.fl,Leukaemia,Erythroleukaemia,Spleen,https://www.culturecollections.org.uk/nop/product/707fl,99072807,General Cell,Mouse
+HCA-24,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-24,06061903,General Cell,Human
+L5178Y-R (LY-R),Lymphoma,Lymphoma,Other,https://www.culturecollections.org.uk/nop/product/l5178y-r-ly-r,90062802,General Cell,Mouse
+LA1-55n,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/la1-55n,06041203,General Cell,Human
+C1300 CLONE NA,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/c1300-clone-na,93120817,General Cell,Mouse
+COV413A,Carcinoma,Carcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/cov413a,07071905,General Cell,Human
+R2C,Tumour,Leydig Cell Tumour,Testis,https://www.culturecollections.org.uk/nop/product/r2c,89031606,General Cell,Rat
+COR-L64,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/cor-l64,96020749,General Cell,Human
+Huh-7D12,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/huh-7d12,01042712,General Cell,Human
+RCC4/VHL,Carcinoma,Carcinoma,Kidney,https://www.culturecollections.org.uk/nop/product/rcc4vhl,03112703,General Cell,Human
+143B,Sarcoma,Osteosarcoma,Bone,https://www.culturecollections.org.uk/nop/product/143b,91112502,General Cell,Human
+PSA1,Carcinoma,Teratocarcinoma,Embryo,https://www.culturecollections.org.uk/nop/product/psa1,85011403,General Cell,Mouse
+K562 cl.6,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/k562-cl6,85011407,General Cell,Human
+C57/B1,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/c57b1,85011438,General Cell,Mouse
+Hep-2C (HeLa derivative),Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hep-2c-hela-derivative,85020207,General Cell,Human
+INT 407(HeLa derivative),Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/int-407hela-derivative,85051004,General Cell,Human
+Phi-1,Carcinoma,Hepatocarcinoma,Liver,https://www.culturecollections.org.uk/nop/product/phi-1,85061101,General Cell,Rat
+EJ138,Carcinoma,Carcinoma,Bladder,https://www.culturecollections.org.uk/nop/product/ej138,85061108,General Cell,Human
+HT29/219,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ht29219,85061109,General Cell,Human
+33B,Other,Oligodendroglioma,Nerve,https://www.culturecollections.org.uk/nop/product/33b,85081901,General Cell,Rat
+P3HR-1,Lymphoma,Burkitt Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/p3hr-1,86010701,General Cell,Human
+ANGM-CSS,Blastoma,Glioblastoma,Brain,https://www.culturecollections.org.uk/nop/product/angm-css,08040401,General Cell,Human
+108CC5-BU-8,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/108cc5-bu-8,08062569,General Cell,Hybrid
+108CC5-BU,Blastoma,Neuroblastoma/Glioma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/108cc5-bu,08062566,General Cell,Hybrid
+328/11,Blastoma,Neuroblastoma/Glioma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/32811,08062538,General Cell,Mouse
+B82 (Hamprecht),Blastoma,Neuroblastoma,Not Specified,https://www.culturecollections.org.uk/nop/product/b82-hamprecht,08062522,General Cell,Mouse
+N1E-115-1,Other,Glioma,Nerve,https://www.culturecollections.org.uk/nop/product/n1e-115-1,08062511,General Cell,Mouse
+N4TG3,Other,Glioma,Nerve,https://www.culturecollections.org.uk/nop/product/n4tg3,08062515,General Cell,Mouse
+NS20Y-TG,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/ns20y-tg,08062512,General Cell,Mouse
+HRA-19a1.1 Alpha2 B,Carcinoma,Adenocarcinoma,Rectum,https://www.culturecollections.org.uk/nop/product/hra-19a11-alpha2-b,09071522,General Cell,Human
+HRA-19a1.1 Alpha2Alpha1 B,Carcinoma,Adenocarcinoma,Rectum,https://www.culturecollections.org.uk/nop/product/hra-19a11-alpha2alpha1-b,09071524,General Cell,Human
+Mero-83,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/mero-83,09100106,General Cell,Human
+MKL-1,Other,Mesothelioma,Skin,https://www.culturecollections.org.uk/nop/product/mkl-1,09111801,General Cell,Human
+ES-R1-ECFP CK8/ECFP,Carcinoma,Carcinoma,Embryo,https://www.culturecollections.org.uk/nop/product/es-r1-ecfp-ck8ecfp,07072005,General Cell,Mouse
+NO36,Other,Mesothelioma,Skin,https://www.culturecollections.org.uk/nop/product/no36-2,10092312,General Cell,Human
+MM383,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm383-2,10092317,General Cell,Human
+4-11,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/4-11,11033103,General Cell,Human
+HeB5,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/heb5,11033104,General Cell,Mouse
+SDM103T2,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/sdm103t2,11120712,General Cell,Human
+Me11-TG6,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/me11-tg6,11120838,General Cell,Rat
+LIM2099,Carcinoma,Adenocarcinoma,Liver,https://www.culturecollections.org.uk/nop/product/lim2099,12062002,General Cell,Human
+MM473,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm473,12070508,General Cell,Human
+FM-3,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-3,13012407,General Cell,Human
+FM-9,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-9,13012416,General Cell,Human
+FM-72,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-72,13012415,General Cell,Human
+FM-93/2,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-932,13012419,General Cell,Human
+FM-74,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-74,13012422,General Cell,Human
+FM-82,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-82,13012426,General Cell,Human
+FM-56,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-56,13012427,General Cell,Human
+FM-81,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-81,13012428,General Cell,Human
+FM-70,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-70,13012491,General Cell,Human
+mel-202,Other,Melanoma,Eye,https://www.culturecollections.org.uk/nop/product/mel-202,13012457,General Cell,Human
+UKRV-Mel-17,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ukrv-mel-17,13012514,General Cell,Human
+Ma-Mel-6,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ma-mel-6,13012465,General Cell,Human
+Ma-Mel-39a,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/ma-mel-39a,13012489,General Cell,Human
+NZM4,Other,Melanoma,Peritoneum,https://www.culturecollections.org.uk/nop/product/nzm4,17020205,General Cell,Human
+NZM5,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/nzm5,17020206,General Cell,Human
+NZOV9,Carcinoma,Adenocarcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/nzov9,17020215,General Cell,Human
+OVPA8,Carcinoma,Adenocarcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/ovpa8,19062601,General Cell,Human
+HT29-5FU resistant (1 microMolar),Cancer,Cancer,Colon,https://www.culturecollections.org.uk/nop/product/ht29-5fu-resistant-1-micromolar,15121704,General Cell,Human
+HT29-MTX resistant (10 microMolar),Cancer,Cancer,Colon,https://www.culturecollections.org.uk/nop/product/ht29-mtx-resistant-10-micromolar,15121711,General Cell,Human
+MM170,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm170-2,10092315,General Cell,Human
+AC29,Other,Mesothelioma,Other,https://www.culturecollections.org.uk/nop/product/ac29-3,21102109,General Cell,Mouse
+HeLa H2B-GFP,Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela-h2b-gfp,21102107,General Cell,Human
+MCC6,Carcinoma,Carcinoma/Neoplasms,Lymph node,https://www.culturecollections.org.uk/nop/product/mcc6,21102105,General Cell,Human
+"My-La, Lymphoma",Lymphoma,Non-Hodgkin Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/my-la-lymphoma,95051033,General Cell,Human
+RIN-5F,Tumour,Islet Cell Tumour,Pancreas,https://www.culturecollections.org.uk/nop/product/rin-5f,95090402,General Cell,Rat
+LS174T,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ls174t,87060401,General Cell,Human
+AB22,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/ab22-2,10092307,General Cell,Mouse
+8305C,Carcinoma,Carcinoma,Thyroid gland,https://www.culturecollections.org.uk/nop/product/8305c,94090183,General Cell,Human
+KARPAS-384,Lymphoma,Non-Hodgkin Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/karpas-384,06120602,General Cell,Human
+KARPAS-1718,Blastoma,Neuroblastoma/Glioma Hybrid,Spleen,https://www.culturecollections.org.uk/nop/product/karpas-1718,08072401,General Cell,Human
+CA46,Lymphoma,Burkitt Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/ca46,95010509,General Cell,Human
+C-4-II,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/c-4-ii,88102701,General Cell,Human
+C-4I,Carcinoma,Squamous Cell Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/c-4i,89051702,General Cell,Human
+ChaGo-K-1,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/chago-k-1,96020948,General Cell,Human
+DMS 53,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/dms-53,95062823,General Cell,Human
+COR-L311,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/cor-l311,96020721,General Cell,Human
+COLO 792,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/colo-792,93052616,General Cell,Human
+COR-L95,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/cor-l95,96020733,General Cell,Human
+COR-L321,Carcinoma,Carcinoma,Not Specified,https://www.culturecollections.org.uk/nop/product/cor-l321,96020756,General Cell,Human
+COR-L105,Carcinoma,Adenocarcinoma,Lung,https://www.culturecollections.org.uk/nop/product/cor-l105,92031918,General Cell,Human
+COLO 679,Other,Cutaneous Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/colo-679,87061210,General Cell,Human
+GP5d,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/gp5d,95090715,General Cell,Human
+EB-3,Lymphoma,Burkitt Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/eb-3,90121003,General Cell,Human
+H9,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/h9,85050301,General Cell,Human
+KYSE-270,Carcinoma,Squamous Cell Carcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/kyse-270,94072021,General Cell,Human
+HCT 116,Carcinoma,Carcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hct-116,91091005,General Cell,Human
+KATO-III,Carcinoma,Adenocarcinoma,Stomach,https://www.culturecollections.org.uk/nop/product/kato-iii,86093004,General Cell,Human
+HT55,Carcinoma,Carcinoma,Rectum,https://www.culturecollections.org.uk/nop/product/ht55,85061105,General Cell,Human
+EoL-1 cell,Leukaemia,Eosinophilic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/eol-1-cell,94042252,General Cell,Human
+OE19,Carcinoma,Adenocarcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/oe19,96071721,General Cell,Human
+MFM-223,Carcinoma,Carcinoma,Mammary gland,https://www.culturecollections.org.uk/nop/product/mfm-223,98050130,General Cell,Human
+LS 123,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ls-123,94120801,General Cell,Human
+MEG-01,Leukaemia,Myelogenous Leukaemia,Bone,https://www.culturecollections.org.uk/nop/product/meg-01,94012401,General Cell,Human
+NCI-H727,Tumour,Carcinoid Tumour,Lung,https://www.culturecollections.org.uk/nop/product/nci-h727,94060303,General Cell,Human
+KYSE-410,Carcinoma,Squamous Cell Carcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/kyse-410,94072023,General Cell,Human
+MDA-MB-361,Carcinoma,Adenocarcinoma,Breast,https://www.culturecollections.org.uk/nop/product/mda-mb-361,92020423,General Cell,Human
+MIA-Pa-Ca-2,Carcinoma,Adenocarcinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/mia-pa-ca-2,85062806,General Cell,Human
+OE33,Carcinoma,Adenocarcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/oe33,96070808,General Cell,Human
+OV56,Carcinoma,Carcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/ov56,96020759,General Cell,Human
+SW 837,Carcinoma,Adenocarcinoma,Rectum,https://www.culturecollections.org.uk/nop/product/sw-837,91031104,General Cell,Human
+OE21,Carcinoma,Squamous Cell Carcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/oe21,96062201,General Cell,Human
+SW 948,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/sw-948,91030714,General Cell,Human
+RD,Sarcoma,Rhabdomyosarcoma,Embryo,https://www.culturecollections.org.uk/nop/product/rd,85111502,General Cell,Human
+T98G,Blastoma,Glioblastoma,Brain,https://www.culturecollections.org.uk/nop/product/t98g,92090213,General Cell,Human
+SK-GT-4,Carcinoma,Adenocarcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/sk-gt-4,11012007,General Cell,Human
+SNU-C2B,Carcinoma,Adenocarcinoma,Intestine,https://www.culturecollections.org.uk/nop/product/snu-c2b,96020932,General Cell,Human
+SK-N-SH,Blastoma,Neuroblastoma,Bone,https://www.culturecollections.org.uk/nop/product/sk-n-sh,86012802,General Cell,Human
+SK LU 1,Carcinoma,Adenocarcinoma,Lung,https://www.culturecollections.org.uk/nop/product/sk-lu-1,93120835,General Cell,Human
+TT,Carcinoma,Carcinoma,Thyroid gland,https://www.culturecollections.org.uk/nop/product/tt,92050721,General Cell,Human
+SW 48,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/sw-48,89012702,General Cell,Human
+SW 1116,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/sw-1116,87071006,General Cell,Human
+ZR-75-30,Carcinoma,Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/zr-75-30,88113004,General Cell,Human
+A431,Carcinoma,Squamous Cell Carcinoma,Skin,https://www.culturecollections.org.uk/nop/product/a431,85090402,General Cell,Human
+COLO 668,Carcinoma,Small Cell Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/colo-668,87061209,General Cell,Human
+A375,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/a375,88113005,General Cell,Human
+A 172,Blastoma,Glioblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/a-172,88062428,General Cell,Human
+A673,Sarcoma,Sarcoma,Muscle,https://www.culturecollections.org.uk/nop/product/a673,85111504,General Cell,Human
+A2058,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/a2058,91100402,General Cell,Human
+A549,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/a549,86012804,General Cell,Human
+Y3.AG.1.2.3,Myeloma,Myeloma,Other,https://www.culturecollections.org.uk/nop/product/y3ag123,85110502,General Cell,Rat
+NS0-Turbodoma,Myeloma,Myeloma,Other,https://www.culturecollections.org.uk/nop/product/ns0-turbodoma,06020202,General Cell,Mouse
+HeLa9903,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela9903,11033105,General Cell,Human
+HS-Sultan,Lymphoma,Burkitt Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/hs-sultan,87012701,General Cell,Human
+745C2,Leukaemia,Erythroleukaemia,Blood,https://www.culturecollections.org.uk/nop/product/745c2,87030901,General Cell,Mouse
+CRI-G1,Other,Insulinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/cri-g1,87052701,General Cell,Rat
+CRI-D11,Other,Insulinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/cri-d11,88031604,General Cell,Rat
+CRI-D2,Other,Insulinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/cri-d2,88031605,General Cell,Rat
+WISH (HeLa derivative),Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/wish-hela-derivative,88102403,General Cell,Human
+N1E-115,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/n1e-115,88112303,General Cell,Mouse
+K-BALB (K-234),Sarcoma,Sarcoma,Embryo,https://www.culturecollections.org.uk/nop/product/k-balb-k-234,89092101,General Cell,Mouse
+K6H6/B5,Myeloma,Myeloma,Other,https://www.culturecollections.org.uk/nop/product/k6h6b5,89101606,General Cell,Hybrid
+L132 (HeLa derivative),Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/l132-hela-derivative,89111004,General Cell,Human
+AGLCL,Cancer,Normal Tissue from Cancer Patient,Blood,https://www.culturecollections.org.uk/nop/product/aglcl,89120566,General Cell,Human
+84BR,Cancer,Normal Tissue from Cancer Patient,Skin,https://www.culturecollections.org.uk/nop/product/84br,90011805,General Cell,Human
+174BR,Tumour,Multiple Primary Tumours,Skin,https://www.culturecollections.org.uk/nop/product/174br,90011895,General Cell,Human
+CCRF S-180 II,Sarcoma,CFW Sarcoma 180,Not Specified,https://www.culturecollections.org.uk/nop/product/ccrf-s-180-ii,90011901,General Cell,Mouse
+LA-4,Other,Benign Lung Adenoma,Lung,https://www.culturecollections.org.uk/nop/product/la-4,90040512,General Cell,Mouse
+BCL1 Clone CW13.20-3B3,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/bcl1-clone-cw1320-3b3,90061904,General Cell,Mouse
+Meta 10,Cancer,Lung Cancer,Lung,https://www.culturecollections.org.uk/nop/product/meta-10,90062271,General Cell,Mouse
+DHD/K12/TRb,Carcinoma,Carcinoma,Colon,https://www.culturecollections.org.uk/nop/product/dhdk12trb,90062901,General Cell,Rat
+RPMI 1846,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/rpmi-1846,90102527,General Cell,Hamster
+DLD-1,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/dld-1,90102540,General Cell,Human
+GS-109-V-34,Cancer,Normal Tissue from Cancer Patient,Skin,https://www.culturecollections.org.uk/nop/product/gs-109-v-34,90110504,General Cell,Human
+CCD-33Lu,Cancer,Normal Tissue from Cancer Patient,Lung,https://www.culturecollections.org.uk/nop/product/ccd-33lu,90110515,General Cell,Human
+Jensen sarcoma,Sarcoma,Sarcoma,Connective tissue,https://www.culturecollections.org.uk/nop/product/jensen-sarcoma,90111913,General Cell,Rat
+KG1a,Leukaemia,Myelogenous Leukaemia,Bone,https://www.culturecollections.org.uk/nop/product/kg1a,91030101,General Cell,Human
+M1,Leukaemia,Myelogenous Leukaemia,Bone,https://www.culturecollections.org.uk/nop/product/m1,91110711,General Cell,Mouse
+COR-L51,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/cor-l51,92031916,General Cell,Human
+B16-F1,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/b16-f1,92101203,General Cell,Mouse
+COLO 857,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/colo-857,93051120,General Cell,Human
+HTC,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/htc,93120108,General Cell,Rat
+JIII (HeLa derivative),Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/jiii-hela-derivative,93120824,General Cell,Human
+QT 6,Sarcoma,Fibrosarcoma,Muscle,https://www.culturecollections.org.uk/nop/product/qt-6,93120831,General Cell,Quail
+SK MES 1,Carcinoma,Squamous Cell Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/sk-mes-1,93120837,General Cell,Human
+COLO 794,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/colo-794,94072237,General Cell,Human
+SK-N-BE(2),Blastoma,Neuroblastoma,Brain,https://www.culturecollections.org.uk/nop/product/sk-n-be2,95011815,General Cell,Human
+Hepa-1c1c7,Other,Hepatoma,Liver,https://www.culturecollections.org.uk/nop/product/hepa-1c1c7,95090613,General Cell,Mouse
+GP2d,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/gp2d,95090714,General Cell,Human
+NCI-H69/CPR,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/nci-h69cpr,96042328,General Cell,Human
+JVM-13,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/jvm-13,96090516,General Cell,Human
+BICR/M1Rk,Carcinoma,Adenocarcinoma,Mammary gland,https://www.culturecollections.org.uk/nop/product/bicrm1rk,96112021,General Cell,Rat
+HeLa DH,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela-dh,96112022,General Cell,Human
+PE/CA-PJ41 (clone D2),Carcinoma,Squamous Cell Carcinoma,Mouth,https://www.culturecollections.org.uk/nop/product/peca-pj41-clone-d2,98020207,General Cell,Human
+HMT-3522 S1,Carcinoma,Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/hmt-3522-s1,98102210,General Cell,Human
+LBRM-TG6,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/lbrm-tg6,96020937,General Cell,Mouse
+N2102Ep Clone 2/A6,Carcinoma,Carcinoma,Other,https://www.culturecollections.org.uk/nop/product/n2102ep-clone-2a6,06011803,General Cell,Human
+577MF,Carcinoma,Carcinoma,Other,https://www.culturecollections.org.uk/nop/product/577mf,06011802,General Cell,Human
+HCA-2,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-2,06061901,General Cell,Human
+LA-N-2,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/la-n-2,06041202,General Cell,Human
+WERI,Blastoma,Retinoblastoma,Eye,https://www.culturecollections.org.uk/nop/product/weri,06070602,General Cell,Human
+VP303,Carcinoma,Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/vp303,05092806,General Cell,Human
+COV362,Carcinoma,Carcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/cov362,07071910,General Cell,Human
+COV318,Carcinoma,Carcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/cov318,07071903,General Cell,Human
+1301,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/1301,01051619,General Cell,Human
+RCC4 plus vector alone,Carcinoma,Carcinoma,Kidney,https://www.culturecollections.org.uk/nop/product/rcc4-plus-vector-alone,03112702,General Cell,Human
+HT29 gluc C1,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ht29-gluc-c1,92012401,General Cell,Human
+P3U1,Myeloma,Myeloma,Skin,https://www.culturecollections.org.uk/nop/product/p3u1,85011417,General Cell,Mouse
+Bu25 TK-,Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/bu25-tk-,85022104,General Cell,Human
+HTC (BUdR),Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/htc-budr,85061110,General Cell,Rat
+PLC/PRF/5,Carcinoma,Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/plcprf5,85061113,General Cell,Human
+RAW 264,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/raw-264,85062803,General Cell,Mouse
+BW5147.G.1.4.OUA/R.1,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/bw5147g14ouar1-2,85082302,General Cell,Mouse
+WEHI 3B,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/wehi-3b,86013003,General Cell,Mouse
+Clone 707,Leukaemia,Erythroleukaemia,Blood,https://www.culturecollections.org.uk/nop/product/clone-707,86052101,General Cell,Mouse
+N115-BU-1,Carcinoma,Carcinoma,Nerve,https://www.culturecollections.org.uk/nop/product/n115-bu-1,08062547,General Cell,Mouse
+N115-BU-10,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/n115-bu-10,08062559,General Cell,Mouse
+108CC5T-BU-4,Blastoma,Neuroblastoma/Glioma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/108cc5t-bu-4,08062571,General Cell,Hybrid
+328/14,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/32814,08062541,General Cell,Mouse
+A9(Hamprecht),Blastoma,Neuroblastoma,Not Specified,https://www.culturecollections.org.uk/nop/product/a9hamprecht,08062526,General Cell,Mouse
+N18 (Hamprecht),Other,Glioma,Nerve,https://www.culturecollections.org.uk/nop/product/n18-hamprecht,08062527,General Cell,Mouse
+N18TG2,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/n18tg2,08062523,General Cell,Mouse
+NS20Y-BU-2,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/ns20y-bu-2,08062502,General Cell,Mouse
+NH15-CA2,Blastoma,Neuroblastoma,Brain,https://www.culturecollections.org.uk/nop/product/nh15-ca2,08062525,General Cell,Hybrid
+MT-4,Blastoma,Neuroblastoma,Not Specified,https://www.culturecollections.org.uk/nop/product/mt-4,08081402,General Cell,Human
+Vx2,Lymphoma,Lymphoma,Not Specified,https://www.culturecollections.org.uk/nop/product/vx2-2,90030912,General Cell,Rabbit
+HCA-7 Colony 24,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-7-colony-24,09071509,General Cell,Human
+Mero-84,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/mero-84,09100107,General Cell,Human
+MS-1,Other,Mesothelioma,Skin,https://www.culturecollections.org.uk/nop/product/ms-1,09111802,General Cell,Human
+MM370,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm370-2,10092316,General Cell,Human
+11-4,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/11-4,11033102,General Cell,Human
+MM485,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm485,11072803,General Cell,Human
+Shmac 1,Cancer,Prostate Cancer,Prostate gland,https://www.culturecollections.org.uk/nop/product/shmac-1,11102001,General Cell,Human
+CARM-L12 TG3,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/carm-l12-tg3,11120833,General Cell,Rat
+CARM-L1 TG3,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/carm-l1-tg3,11120835,General Cell,Rat
+ZL55,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/zl55-2,12050301,General Cell,Human
+MM537,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm537,12070509,General Cell,Human
+FM-55-P,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-55-p,13012417,General Cell,Human
+FM-55-M2,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-55-m2,13012559,General Cell,Human
+FM-55-M1,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-55-m1,13012546,General Cell,Human
+UKRV-Mel-6b,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/ukrv-mel-6b,13012538,General Cell,Human
+UKRV-Mel-14b,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ukrv-mel-14b,13012529,General Cell,Human
+Ma-Mel-22,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/ma-mel-22,13012452,General Cell,Human
+NZM1,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/nzm1,17020202,General Cell,Human
+NZM2,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/nzm2,17020203,General Cell,Human
+NZM6,Other,Melanoma,Other,https://www.culturecollections.org.uk/nop/product/nzm6,17020207,General Cell,Human
+NZM11,Other,Melanoma,Other,https://www.culturecollections.org.uk/nop/product/nzm11,17020209,General Cell,Human
+NZM30,Other,Melanoma,Other,https://www.culturecollections.org.uk/nop/product/nzm30,17020211,General Cell,Human
+NZM43,Other,Melanoma,Lung,https://www.culturecollections.org.uk/nop/product/nzm43,17020214,General Cell,Human
+HT29-5M21,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ht29-5m21,15121706,General Cell,Human
+HT29-5F7,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ht29-5f7,15121701,General Cell,Human
+Nb2-11,Lymphoma,Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/nb2-11,97041101,General Cell,Rat
+PANC-1,Carcinoma,Adenocarcinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/panc-1,87092802,General Cell,Human
+SerBob,Blastoma,Glioblastoma/Astrocytoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/serbob,10021101,General Cell,Human
+MM603,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm603,11072801,General Cell,Human
+DH82,Sarcoma,Sarcoma,Not Specified,https://www.culturecollections.org.uk/nop/product/dh82,94062922,General Cell,Canine
+WRL 68 (HeLa derivative),Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/wrl-68-hela-derivative,89121403,General Cell,Human
+Neuro 2a,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/neuro-2a,89121404,General Cell,Mouse
+COLO 205,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/colo-205,87061208,General Cell,Human
+Ca Ski,Carcinoma,Squamous Cell Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/ca-ski,87020501,General Cell,Human
+COLO 320HSR,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/colo-320hsr,87101501,General Cell,Human
+DBTRG.05MG,Blastoma,Glioblastoma,Brain,https://www.culturecollections.org.uk/nop/product/dbtrg05mg,93061119,General Cell,Human
+COLO 800,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/colo-800,93051123,General Cell,Human
+CCF-STTG1,Other,Astrocytoma,Brain,https://www.culturecollections.org.uk/nop/product/ccf-sttg1,90021502,General Cell,Human
+COR-L88,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/cor-l88,92031917,General Cell,Human
+COLO 741,Carcinoma,Carcinoma,Colon,https://www.culturecollections.org.uk/nop/product/colo-741,93052621,General Cell,Human
+ESO26,Carcinoma,Adenocarcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/eso26,11012009,General Cell,Human
+HCT-15,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hct-15,91030712,General Cell,Human
+Hep 3B,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/hep-3b,86062703,General Cell,Human
+HOS,Sarcoma,Osteosarcoma,Bone,https://www.culturecollections.org.uk/nop/product/hos,87070202,General Cell,Human
+G-402,Blastoma,Leiomyoblastoma,Kidney,https://www.culturecollections.org.uk/nop/product/g-402,90112715,General Cell,Human
+HGC-27,Carcinoma,Carcinoma,Lymph node,https://www.culturecollections.org.uk/nop/product/hgc-27,94042256,General Cell,Human
+Hs 633T,Sarcoma,Fibrosarcoma,Other,https://www.culturecollections.org.uk/nop/product/hs-633t,89050201,General Cell,Human
+KYAE-1,Carcinoma,Adenocarcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/kyae-1,11012002,General Cell,Human
+KARPAS-422,Lymphoma,Non-Hodgkin Lymphoma,Not Specified,https://www.culturecollections.org.uk/nop/product/karpas-422,06101702,General Cell,Human
+KYSE-70,Carcinoma,Squamous Cell Carcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/kyse-70,94072012,General Cell,Human
+KARPAS-1106P,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/karpas-1106p,06072607,General Cell,Human
+HT 1376,Carcinoma,Bladder Carcinoma,Bladder,https://www.culturecollections.org.uk/nop/product/ht-1376,87032402,General Cell,Human
+JIYOYE,Lymphoma,Burkitt Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/jiyoye,88071302,General Cell,Human
+HT115,Carcinoma,Carcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ht115,85061104,General Cell,Human
+KU-812,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/ku-812,90071807,General Cell,Human
+NTERA-2 clone D1,Carcinoma,Carcinoma,Testis,https://www.culturecollections.org.uk/nop/product/ntera-2-clone-d1-4,01071221,General Cell,Human
+NCI-H358,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/nci-h358,95111733,General Cell,Human
+MFE-296,Carcinoma,Adenocarcinoma,Uterus,https://www.culturecollections.org.uk/nop/product/mfe-296,98031101,General Cell,Human
+MC116,Lymphoma,Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/mc116,90110501,General Cell,Human
+QIMR-WIL,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/qimr-wil,86030601,General Cell,Human
+H69,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/h69,91091802,General Cell,Human
+MG-63,Sarcoma,Osteosarcoma,Bone,https://www.culturecollections.org.uk/nop/product/mg-63,86051601,General Cell,Human
+OV17R,Carcinoma,Adenocarcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/ov17r,96020763,General Cell,Human
+SK-N-DZ,Blastoma,Neuroblastoma,Brain,https://www.culturecollections.org.uk/nop/product/sk-n-dz,94092305,General Cell,Human
+T84,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/t84,88021101,General Cell,Human
+RPMI 2650,Carcinoma,Squamous Cell Carcinoma,Other,https://www.culturecollections.org.uk/nop/product/rpmi-2650,88031602,General Cell,Human
+T47D,Carcinoma,Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/t47d,85102201,General Cell,Human
+RO82-W-1,Carcinoma,Carcinoma,Thyroid gland,https://www.culturecollections.org.uk/nop/product/ro82-w-1,92030502,General Cell,Human
+ACHN,Carcinoma,Carcinoma,Kidney,https://www.culturecollections.org.uk/nop/product/achn,88100508,General Cell,Human
+U-2 OS,Sarcoma,Osteosarcoma,Bone,https://www.culturecollections.org.uk/nop/product/u-2-os,92022711,General Cell,Human
+NS0-Serum-Free,Myeloma,Myeloma,Other,https://www.culturecollections.org.uk/nop/product/ns0-serum-free,03061601,General Cell,Mouse
+FTC-133,Carcinoma,Carcinoma,Thyroid gland,https://www.culturecollections.org.uk/nop/product/ftc-133,94060901,General Cell,Human
+DLKP,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/dlkp,20082601,General Cell,Human
+LBRM-33-1A5,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/lbrm-33-1a5,86060302,General Cell,Mouse
+Y79,Blastoma,Retinoblastoma,Eye,https://www.culturecollections.org.uk/nop/product/y79,86093003,General Cell,Human
+KHOS-240S,Sarcoma,Osteosarcoma,Bone,https://www.culturecollections.org.uk/nop/product/khos-240s,86112810,General Cell,Human
+KHOS-312H,Sarcoma,Osteosarcoma,Bone,https://www.culturecollections.org.uk/nop/product/khos-312h,86112811,General Cell,Human
+COLO 685,Carcinoma,Adenocarcinoma,Uterus,https://www.culturecollections.org.uk/nop/product/colo-685,87061206,General Cell,Human
+"MNNG/HOS (TE85, Clone F-5)",Sarcoma,Osteosarcoma,Bone,https://www.culturecollections.org.uk/nop/product/mnnghos-te85-clone-f-5,87070201,General Cell,Human
+COLO 201,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/colo-201,87091201,General Cell,Human
+L5178Y,Leukaemia,Leukaemia,Other,https://www.culturecollections.org.uk/nop/product/l5178y,87111908,General Cell,Mouse
+Chang Liver (HeLa derivative),Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/chang-liver-hela-derivative,88021102,General Cell,Human
+NFS-70 C10,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/nfs-70-c10,88041905,General Cell,Mouse
+Jurkat E6.1,Leukaemia,Lymphoblastic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/jurkat-e61,88042803,General Cell,Human
+C8166,Cancer,Cancer,Blood,https://www.culturecollections.org.uk/nop/product/c8166,88051601,General Cell,Human
+WILCL,Tumour,Lung Tumour,Blood,https://www.culturecollections.org.uk/nop/product/wilcl,89120565,General Cell,Human
+MOLT-3,Leukaemia,Lymphoblastic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/molt-3,90021901,General Cell,Human
+LL47 (MaDo),Cancer,Normal Tissue from Cancer Patient,Lung,https://www.culturecollections.org.uk/nop/product/ll47-mado,90102538,General Cell,Human
+45.6.TG1.7,Myeloma,Myeloma,Other,https://www.culturecollections.org.uk/nop/product/456tg17,90110506,General Cell,Mouse
+UMR-106,Sarcoma,Osteosarcoma,Bone,https://www.culturecollections.org.uk/nop/product/umr-106,90111314,General Cell,Rat
+MMT-060562,Tumour,Tumour,Breast,https://www.culturecollections.org.uk/nop/product/mmt-060562,90111911,General Cell,Mouse
+ND27,Blastoma,Neuroblastoma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/nd27,92090912,General Cell,Hybrid
+COLO 853,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/colo-853,93052606,General Cell,Human
+COLO 206F,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/colo-206f,93052620,General Cell,Human
+COLO 677,Myeloma,Myeloma,Blood,https://www.culturecollections.org.uk/nop/product/colo-677,93072109,General Cell,Human
+M3 Clone M-3,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/m3-clone-m-3,93120827,General Cell,Mouse
+KB (HeLa derivative),Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/kb-hela-derivative,94050408,General Cell,Human
+RPMI 7932,Other,Melanoma,Lung,https://www.culturecollections.org.uk/nop/product/rpmi-7932,94072246,General Cell,Human
+BW1J,Carcinoma,Hepatocellular Carcinoma,Skin,https://www.culturecollections.org.uk/nop/product/bw1j,94101901,General Cell,Mouse
+C2,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/c2,94101906,General Cell,Rat
+MAT-Lu,Carcinoma,Adenocarcinoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/mat-lu,94102735,General Cell,Rat
+BE(2)-C,Blastoma,Neuroblastoma,Brain,https://www.culturecollections.org.uk/nop/product/be2-c,95011817,General Cell,Human
+GR-M,Carcinoma,Adenocarcinoma,Other,https://www.culturecollections.org.uk/nop/product/gr-m,95032301,General Cell,Human
+MES-SA/Dx-5,Sarcoma,Sarcoma,Uterus,https://www.culturecollections.org.uk/nop/product/mes-sadx-5,95051031,General Cell,Human
+HtTA-1,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/htta-1,95091410,General Cell,Human
+HR5-CL11,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hr5-cl11,95091411,General Cell,Human
+NCI-H69/LX10,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/nci-h69lx10,96042331,General Cell,Human
+MOR/0.4R,Carcinoma,Adenocarcinoma,Lung,https://www.culturecollections.org.uk/nop/product/mor04r,96042334,General Cell,Human
+COR-L23/5010,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/cor-l235010,96042338,General Cell,Human
+COR-L23/R,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/cor-l23r,96042339,General Cell,Human
+A375-C6,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/a375-c6,97011321,General Cell,Human
+HMT-3522 T4-2,Carcinoma,Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/hmt-3522-t4-2,98102212,General Cell,Human
+ATDC5,Carcinoma,Teratocarcinoma,Embryo,https://www.culturecollections.org.uk/nop/product/atdc5,99072806,General Cell,Mouse
+HCA-46,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-46,07031601,General Cell,Human
+VP229,Carcinoma,Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/vp229,05092804,General Cell,Human
+833KE,Carcinoma,Carcinoma,Embryo,https://www.culturecollections.org.uk/nop/product/833ke,06072611,General Cell,Human
+COV362.4,Carcinoma,Carcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/cov3624,07071904,General Cell,Human
+COR-L26,Carcinoma,Large Cell Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/cor-l26,96020740,General Cell,Human
+P3X63Ag8.653-TurboDoma,Myeloma,Myeloma,Other,https://www.culturecollections.org.uk/nop/product/p3x63ag8653-turbodoma,03092502,General Cell,Mouse
+1-5c-4 (HeLa deriative),Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/1-5c-4-hela-deriative,88021103,General Cell,Human
+HTK-,Myeloma,Osteomyeloma,Bone,https://www.culturecollections.org.uk/nop/product/htk-,88022409,General Cell,Human
+LUDLU-1,Carcinoma,Squamous Cell Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/ludlu-1,92012463,General Cell,Human
+CALU 1,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/calu-1,93120818,General Cell,Human
+VP267,Carcinoma,Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/vp267,05092805,General Cell,Human
+NCI-H322,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/nci-h322,95111734,General Cell,Human
+BHL-89,Lymphoma,Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/bhl-89,98070109,General Cell,Human
+C16 (HeLa derivative),Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/c16-hela-derivative,84121902,General Cell,Human
+P815-1-1,Other,Mastocytoma,Breast,https://www.culturecollections.org.uk/nop/product/p815-1-1,85011406,General Cell,Mouse
+RAJI'A',Lymphoma,Burkitt Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/rajia,85022102,General Cell,Human
+EL4,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/el4,85023105,General Cell,Mouse
+RAMOS-EHRB,Lymphoma,Burkitt Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ramos-ehrb,85030804,General Cell,Human
+TR6Bc1,Other,Schwannoma,Nerve,https://www.culturecollections.org.uk/nop/product/tr6bc1,85042301,General Cell,Mouse
+Pu-518,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/pu-518,85051501,General Cell,Mouse
+RED.1,Leukaemia,Erythroleukaemia,Blood,https://www.culturecollections.org.uk/nop/product/red1,85092601,General Cell,Mouse
+D98/AH2 Clone B (HeLa derivative),Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/d98ah2-clone-b-hela-derivative,85112701,General Cell,Human
+EL4.BU.OU6,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/el4buou6,85121301,General Cell,Mouse
+54SCC7,Blastoma,Neuroblastoma,Other,https://www.culturecollections.org.uk/nop/product/54scc7,08062518,General Cell,Hybrid
+108CC5,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/108cc5,08062521,General Cell,Hybrid
+108CC5T-BU-1,Blastoma,Neuroblastoma/Glioma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/108cc5t-bu-1,08062570,General Cell,Hybrid
+108CC5-TG-2,Blastoma,Neuroblastoma/Glioma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/108cc5-tg-2,08062544,General Cell,Hybrid
+108CC15,Blastoma,Neuroblastoma/Glioma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/108cc15,08062516,General Cell,Hybrid
+108CC5-BU-5,Blastoma,Neuroblastoma/Glioma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/108cc5-bu-5,08062567,General Cell,Hybrid
+328/7,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/3287,08062530,General Cell,Mouse
+328/8,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/3288,08062531,General Cell,Mouse
+NS20Y-BU-4,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/ns20y-bu-4,08062503,General Cell,Mouse
+HCA-7 Colony 6,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-7-colony-6,09071504,General Cell,Human
+HCA-7 Colony 30,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-7-colony-30,09071516,General Cell,Human
+Mero-48a,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/mero-48a,09100104,General Cell,Human
+ES-R1,Other,Mesothelioma,Embryo,https://www.culturecollections.org.uk/nop/product/es-r1,07072001,General Cell,Mouse
+MM426,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm426-2,10092320,General Cell,Human
+JU77,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/ju77-2,10092309,General Cell,Human
+LO68,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/lo68-2,10092311,General Cell,Human
+MM127,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm127-2,10092314,General Cell,Human
+P4E6,Carcinoma,Carcinoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/p4e6,10112301,General Cell,Human
+Shmac 5,Cancer,Prostate Cancer,Prostate gland,https://www.culturecollections.org.uk/nop/product/shmac-5,10112303,General Cell,Human
+MM576,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm576,11072802,General Cell,Human
+SPC212,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/spc212,11120717,General Cell,Human
+Me19-TG2,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/me19-tg2,11120836,General Cell,Rat
+Me9-TG3,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/me9-tg3,11120841,General Cell,Rat
+LIM1899,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/lim1899-2,12062001,General Cell,Human
+LIM2550,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/lim2550,12070504,General Cell,Human
+FM-45,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-45,13012410,General Cell,Human
+FM-57,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-57,13012418,General Cell,Human
+FM-92,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-92,13012429,General Cell,Human
+FM-3.13,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-313,13012516,General Cell,Human
+FM-3.26,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-326,13012554,General Cell,Human
+UKRV-Mel-2,Other,Melanoma,Lung,https://www.culturecollections.org.uk/nop/product/ukrv-mel-2,13012436,General Cell,Human
+UKRV-Mel-3,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/ukrv-mel-3,13012499,General Cell,Human
+Ma-Mel-4,Other,Melanoma,Bladder,https://www.culturecollections.org.uk/nop/product/ma-mel-4,13012519,General Cell,Human
+Ma-Mel-5,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/ma-mel-5,13012461,General Cell,Human
+Ma-Mel-7,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ma-mel-7,13012459,General Cell,Human
+UKRV-Mel-19b,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ukrv-mel-19b,13012536,General Cell,Human
+NZM7,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/nzm7,17020208,General Cell,Human
+HT29-MTX resistant *(1 microMolar),Cancer,Cancer,Colon,https://www.culturecollections.org.uk/nop/product/ht29-mtx-resistant-1-micromolar,15121705,General Cell,Human
+HT29-5FU resistant (10 microMolar),Cancer,Cancer,Colon,https://www.culturecollections.org.uk/nop/product/ht29-5fu-resistant-10-micromolar,15121709,General Cell,Human
+Bob,Carcinoma,Adenocarcinoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/bob-2,10021102,General Cell,Human
+SH-SY5Y,Blastoma,Neuroblastoma,Bone,https://www.culturecollections.org.uk/nop/product/sh-sy5y,94030304,General Cell,Human
+AC29,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/ac29-2,10092308,General Cell,Mouse
+LIM2537,Carcinoma,Carcinoma,Colon,https://www.culturecollections.org.uk/nop/product/lim2537,21102106,General Cell,Human
+Ci-1 (formerly known as Ri-1),Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/ci-1-formerly-known-as-ri-1,96090512,General Cell,Human
+RAW 264.7,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/raw-2647,91062702,General Cell,Mouse
+HeLa-Mitotrap,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela-mitotrap,15042201,General Cell,Human
+22Rv1,Carcinoma,Carcinoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/22rv1,05092802,General Cell,Human
+ARH 77,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/arh-77,88121201,General Cell,Human
+KARPAS-929,Myeloma,Myeloma,Bone,https://www.culturecollections.org.uk/nop/product/karpas-929,06072606,General Cell,Human
+HL60,Leukaemia,Promyelocytic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/hl60,98070106,General Cell,Human
+G-361,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/g-361,88030401,General Cell,Human
+BxPC-3,Carcinoma,Adenocarcinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/bxpc-3,93120816,General Cell,Human
+HeLa,Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela,93021013,General Cell,Human
+C32 (melanoma),Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/c32-melanoma,87090201,General Cell,Human
+Hs 578T,Carcinoma,Ductal Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/hs-578t,86082104,General Cell,Human
+COR-L23,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/cor-l23,92031919,General Cell,Human
+JVM-2,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/jvm-2,96090515,General Cell,Human
+LNCap clone FGC,Carcinoma,Carcinoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/lncap-clone-fgc,89110211,General Cell,Human
+MFE-280,Carcinoma,Adenocarcinoma,Uterus,https://www.culturecollections.org.uk/nop/product/mfe-280,98050131,General Cell,Human
+MES-SA,Sarcoma,Sarcoma,Uterus,https://www.culturecollections.org.uk/nop/product/mes-sa,95051030,General Cell,Human
+JEG3,Carcinoma,Choriocarcinoma,Placenta,https://www.culturecollections.org.uk/nop/product/jeg3,92120308,General Cell,Human
+HT 1197,Carcinoma,Bladder Carcinoma,Bladder,https://www.culturecollections.org.uk/nop/product/ht-1197,87032403,General Cell,Human
+LS180,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ls180,87021202,General Cell,Human
+MCC13,Carcinoma,Carcinoma,Skin,https://www.culturecollections.org.uk/nop/product/mcc13-2,10092302,General Cell,Human
+OACP4 C,Carcinoma,Adenocarcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/oacp4-c,11012005,General Cell,Human
+OACM5.1 C,Carcinoma,Adenocarcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/oacm51-c,11012006,General Cell,Human
+NCI-H929,Myeloma,Myeloma,Not Specified,https://www.culturecollections.org.uk/nop/product/nci-h929,95050415,General Cell,Human
+PSN1,Carcinoma,Adenocarcinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/psn1,94060601,General Cell,Human
+RAJI,Lymphoma,Burkitt Lymphoma,Lymph node,https://www.culturecollections.org.uk/nop/product/raji,85011429,General Cell,Human
+PE/CA-PJ15,Carcinoma,Squamous Cell Carcinoma,Tongue,https://www.culturecollections.org.uk/nop/product/peca-pj15,96121230,General Cell,Human
+MOG-G-UVW,Other,Astrocytoma,Brain,https://www.culturecollections.org.uk/nop/product/mog-g-uvw,86022703,General Cell,Human
+SK-GT-2,Carcinoma,Carcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/sk-gt-2,11012008,General Cell,Human
+SHP-77,Cancer,Cancer,Lung,https://www.culturecollections.org.uk/nop/product/shp-77,98110201,General Cell,Human
+THP 1,Leukaemia,Monocytic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/thp-1-2,88081201,General Cell,Human
+SW 626,Carcinoma,Adenocarcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/sw-626,91091203,General Cell,Human
+RPMI 8866,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/rpmi-8866,95041316,General Cell,Human
+RPMI 8226,Myeloma,Myeloma,Blood,https://www.culturecollections.org.uk/nop/product/rpmi-8226,87012702,General Cell,Human
+Saos-2,Sarcoma,Osteosarcoma,Bone,https://www.culturecollections.org.uk/nop/product/saos-2,89050205,General Cell,Human
+SCC-9,Carcinoma,Squamous Cell Carcinoma,Tongue,https://www.culturecollections.org.uk/nop/product/scc-9,89062003,General Cell,Human
+SK-PN-DW,Tumour,Neuroectodermal Tumour,Nerve,https://www.culturecollections.org.uk/nop/product/sk-pn-dw,94092301,General Cell,Human
+HT29-MTX-E12,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ht29-mtx-e12,12040401,General Cell,Human
+Karpas 707,Myeloma,Myeloma/Plasmacytoma,Other,https://www.culturecollections.org.uk/nop/product/karpas-707,22110801,General Cell,Human
+OAW42-A,Tumour,Tumour,Ovary,https://www.culturecollections.org.uk/nop/product/oaw42-a,20082613,General Cell,Human
+FTC-238,Carcinoma,Carcinoma,Thyroid gland,https://www.culturecollections.org.uk/nop/product/ftc-238,94060902,General Cell,Human
+COV504,Carcinoma,Carcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/cov504,07071902,General Cell,Human
+DLRP,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/dlrp,20082610,General Cell,Human
+BL-3,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/bl-3,86062401,General Cell,Bovine
+HeLa 229,Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela-229,86090201,General Cell,Human
+EL4.NOB-1,Lymphoma,Thymic Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/el4nob-1,87020408,General Cell,Mouse
+WEHI 164,Sarcoma,Fibrosarcoma,Skin,https://www.culturecollections.org.uk/nop/product/wehi-164,87022501,General Cell,Mouse
+ARL-6,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/arl-6,87050701,General Cell,Rat
+LLC-WRC 256,Carcinoma,Adenocarcinoma,Mammary gland,https://www.culturecollections.org.uk/nop/product/llc-wrc-256,87061101,General Cell,Rat
+707B1011C3,Leukaemia,Erythroleukaemia,Blood,https://www.culturecollections.org.uk/nop/product/707b1011c3,87120401,General Cell,Mouse
+BW5147.G.1.4.OUAR.1,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/bw5147g14ouar1,88100507,General Cell,Mouse
+HL60 M2,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/hl60-m2,88120803,General Cell,Human
+HL60 M4,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/hl60-m4,88120804,General Cell,Human
+HL60 15-12,Leukaemia,Myelogenous Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/hl60-15-12,88120805,General Cell,Human
+RAG,Carcinoma,Carcinoma,Kidney,https://www.culturecollections.org.uk/nop/product/rag,89040605,General Cell,Mouse
+Fao,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/fao,89042701,General Cell,Rat
+CCRF-SB,Leukaemia,Lymphoblastic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/ccrf-sb,89090405,General Cell,Human
+NB4 1A3,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/nb4-1a3,89121405,General Cell,Mouse
+N1-S1,Other,Hepatoma,Liver,https://www.culturecollections.org.uk/nop/product/n1-s1,90011902,General Cell,Rat
+MCA-RH 7777,Other,Hepatoma,Liver,https://www.culturecollections.org.uk/nop/product/mca-rh-7777,90021504,General Cell,Rat
+SK-N-MC,Other,Neuroepithelioma,Lymph node,https://www.culturecollections.org.uk/nop/product/sk-n-mc,90022302,General Cell,Human
+Meta 15,Cancer,Lung Cancer,Lung,https://www.culturecollections.org.uk/nop/product/meta-15,90062270,General Cell,Mouse
+Meta 7,Cancer,Lung Cancer,Lung,https://www.culturecollections.org.uk/nop/product/meta-7,90062272,General Cell,Mouse
+GS-109-V-20,Cancer,Normal Tissue from Cancer Patient,Skin,https://www.culturecollections.org.uk/nop/product/gs-109-v-20,90110505,General Cell,Human
+CCD 25Lu,Other,Glioma,Lung,https://www.culturecollections.org.uk/nop/product/ccd-25lu,90112710,General Cell,Human
+HSDM1C1,Sarcoma,Fibrosarcoma,Other,https://www.culturecollections.org.uk/nop/product/hsdm1c1,90112810,General Cell,Mouse
+WB2054M,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/wb2054m,91011802,General Cell,Rat
+MPC-11,Other,Plasmacytoma,Blood,https://www.culturecollections.org.uk/nop/product/mpc-11,91031103,General Cell,Mouse
+UMR-108,Sarcoma,Sarcoma,Bone,https://www.culturecollections.org.uk/nop/product/umr-108,91060527,General Cell,Rat
+Subclone 707 BUF,Leukaemia,Erythroleukaemia,Not Specified,https://www.culturecollections.org.uk/nop/product/subclone-707-buf,91112122,General Cell,Mouse
+K1,Carcinoma,Carcinoma,Thyroid gland,https://www.culturecollections.org.uk/nop/product/k1,92030501,General Cell,Human
+ND15,Blastoma,Neuroblastoma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/nd15,92090907,General Cell,Hybrid
+ND-C,Blastoma,Neuroblastoma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/nd-c,92090913,General Cell,Mouse
+WEHI 3BD,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/wehi-3bd,92110401,General Cell,Mouse
+COLO 839,Cancer,Normal Tissue from Cancer Patient,Blood,https://www.culturecollections.org.uk/nop/product/colo-839,93051119,General Cell,Human
+COLO 720 L,Cancer,Normal Tissue from Cancer Patient,Blood,https://www.culturecollections.org.uk/nop/product/colo-720-l,93052623,General Cell,Human
+GIRARDI HEART (HeLa derivative),Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/girardi-heart-hela-derivative,93120822,General Cell,Human
+HaP-T1,Carcinoma,Adenocarcinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/hap-t1,93121054,General Cell,Hamster
+JTC-27,Carcinoma,Carcinoma,Other,https://www.culturecollections.org.uk/nop/product/jtc-27,94042255,General Cell,Rat
+AT-2.1,Carcinoma,Adenocarcinoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/at-21,94101450,General Cell,Rat
+AT6.1,Carcinoma,Adenocarcinoma,Prostate gland,https://www.culturecollections.org.uk/nop/product/at61,94101452,General Cell,Rat
+P3X63Ag8U.1,Myeloma,Myeloma,Other,https://www.culturecollections.org.uk/nop/product/p3x63ag8u1,94120802,General Cell,Mouse
+HSG (HeLa derivative),Carcinoma,Adenocarcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hsg-hela-derivative,95031024,General Cell,Human
+DMS 92,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/dms-92,95062825,General Cell,Human
+NCI-H69/LX20,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/nci-h69lx20,96042332,General Cell,Human
+MOR/CPR,Carcinoma,Adenocarcinoma,Lung,https://www.culturecollections.org.uk/nop/product/morcpr,96042333,General Cell,Human
+COR-L23/R23-,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/cor-l23r23-,96042337,General Cell,Human
+A375-C5,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/a375-c5,97011320,General Cell,Human
+HMT-3522 S2,Carcinoma,Carcinoma,Breast,https://www.culturecollections.org.uk/nop/product/hmt-3522-s2,98102211,General Cell,Human
+F5-5.F1,Leukaemia,Leukaemia,Spleen,https://www.culturecollections.org.uk/nop/product/f5-5f1,99072803,General Cell,Mouse
+U-BLC1,Carcinoma,Carcinoma,Bladder,https://www.culturecollections.org.uk/nop/product/u-blc1,06013102,General Cell,Human
+RB247C,Blastoma,Retinoblastoma,Eye,https://www.culturecollections.org.uk/nop/product/rb247c,06070601,General Cell,Human
+HRA-16,Carcinoma,Adenocarcinoma,Rectum,https://www.culturecollections.org.uk/nop/product/hra-16,06061905,General Cell,Human
+FTC-236,Carcinoma,Carcinoma,Thyroid gland,https://www.culturecollections.org.uk/nop/product/ftc-236,06030202,General Cell,Human
+LA-N-1,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/la-n-1,06041201,General Cell,Human
+1156QE/8,Carcinoma,Carcinoma,Embryo,https://www.culturecollections.org.uk/nop/product/1156qe8,06072609,General Cell,Human
+PE/CA-PJ49,Carcinoma,Squamous Cell Carcinoma,Tongue,https://www.culturecollections.org.uk/nop/product/peca-pj49,00060606,General Cell,Human
+HCA-7 Colony 29,Carcinoma,Carcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-7-colony-29,02091238,General Cell,Human
+CAKI 2,Carcinoma,Carcinoma,Kidney,https://www.culturecollections.org.uk/nop/product/caki-2,93120819,General Cell,Human
+HeLa Ohio,Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela-ohio,84121901,General Cell,Human
+P3X63Ag8,Myeloma,Myeloma,Skin,https://www.culturecollections.org.uk/nop/product/p3x63ag8,85011401,General Cell,Mouse
+HEp-2 (Clone 2B) (HeLa derivative),Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hep-2-clone-2b-hela-derivative,85011412,General Cell,Human
+P3X63Ag8.653,Myeloma,Myeloma,Other,https://www.culturecollections.org.uk/nop/product/p3x63ag8653,85011420,General Cell,Mouse
+P3/NS1/1-Ag4.1,Myeloma,Myeloma,Other,https://www.culturecollections.org.uk/nop/product/p3ns11-ag41,85011427,General Cell,Mouse
+WEHI-231,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/wehi-231,85022107,General Cell,Mouse
+H4-II-E-C3,Carcinoma,Hepatocellular Carcinoma,Liver,https://www.culturecollections.org.uk/nop/product/h4-ii-e-c3,85061112,General Cell,Rat
+F9,Carcinoma,Teratocarcinoma,Embryo,https://www.culturecollections.org.uk/nop/product/f9,85061803,General Cell,Mouse
+SP2/0-Ag14,Myeloma,Myeloma,Spleen,https://www.culturecollections.org.uk/nop/product/sp20-ag14,85072401,General Cell,Mouse
+CACO-2,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/caco-2,86010202,General Cell,Human
+HeLa (AC-free),Carcinoma,Carcinoma,Cervix,https://www.culturecollections.org.uk/nop/product/hela-ac-free,08011102,General Cell,Human
+MOR,Carcinoma,Adenocarcinoma,Lung,https://www.culturecollections.org.uk/nop/product/mor,84112312,General Cell,Human
+N115-BU-2,Carcinoma,Carcinoma,Nerve,https://www.culturecollections.org.uk/nop/product/n115-bu-2,08062552,General Cell,Mouse
+N115-BU-8,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/n115-bu-8,08062519,General Cell,Mouse
+N115-BU-9,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/n115-bu-9,08062558,General Cell,Mouse
+108CC5-TG-4,Blastoma,Neuroblastoma/Glioma Hybrid,Nerve,https://www.culturecollections.org.uk/nop/product/108cc5-tg-4,08062546,General Cell,Hybrid
+54SCC2,Blastoma,Neuroblastoma/Glioma Hybrid,Other,https://www.culturecollections.org.uk/nop/product/54scc2,08062560,General Cell,Hybrid
+328/10,Other,Glioma,Nerve,https://www.culturecollections.org.uk/nop/product/32810,08062536,General Cell,Mouse
+C6-2-3,Blastoma,Neuroblastoma,Brain,https://www.culturecollections.org.uk/nop/product/c6-2-3,08062528,General Cell,Rat
+NS20Y,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/ns20y,08062517,General Cell,Mouse
+NS20Y-BU-6,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/ns20y-bu-6,08062507,General Cell,Mouse
+NS20Y-BU-7,Blastoma,Neuroblastoma,Nerve,https://www.culturecollections.org.uk/nop/product/ns20y-bu-7,08062510,General Cell,Mouse
+CAD,Blastoma,Neuroblastoma,Embryo,https://www.culturecollections.org.uk/nop/product/cad,08100805,General Cell,Mouse
+HCA-7 Colony 1,Carcinoma,Hepatocellular Carcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-7-colony-1,09071501,General Cell,Human
+HCA-7 Colony 11,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-7-colony-11,09071506,General Cell,Human
+HCA-7 Colony 27,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/hca-7-colony-27,09071513,General Cell,Human
+Mero-95,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/mero-95,09100108,General Cell,Human
+ES-R1-ECFP CK6/ECFP,Carcinoma,Carcinoma,Embryo,https://www.culturecollections.org.uk/nop/product/es-r1-ecfp-ck6ecfp,07072004,General Cell,Mouse
+ONE58,Other,Mesothelioma,Skin,https://www.culturecollections.org.uk/nop/product/one58-2,10092313,General Cell,Human
+MM386,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm386-2,10092318,General Cell,Human
+MCC14/2,Carcinoma,Carcinoma,Skin,https://www.culturecollections.org.uk/nop/product/mcc142-2,10092303,General Cell,Human
+MM138,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm138,10092321,General Cell,Human
+Shmac 4,Cancer,Prostate Cancer,Prostate gland,https://www.culturecollections.org.uk/nop/product/shmac-4,10112302,General Cell,Human
+MM253,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mm253,11072804,General Cell,Human
+ZL5,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/zl5,11120715,General Cell,Human
+SPC111,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/spc111,11120716,General Cell,Human
+Me17-TG6,Other,Mesothelioma,Lung,https://www.culturecollections.org.uk/nop/product/me17-tg6,11120837,General Cell,Rat
+LIM2405,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/lim2405,12062003,General Cell,Human
+LIM2551,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/lim2551,12070505,General Cell,Human
+MM466,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/mm466,12070507,General Cell,Human
+92-1,Other,Melanoma,Eye,https://www.culturecollections.org.uk/nop/product/92-1,13012458,General Cell,Human
+FM-6,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-6,13012409,General Cell,Human
+FM-88,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-88,13012421,General Cell,Human
+FM-95,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-95,13012425,General Cell,Human
+FM-3.29,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/fm-329,13012502,General Cell,Human
+Ma-Mel-15,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ma-mel-15,13012520,General Cell,Human
+Ma-Mel-27,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/ma-mel-27,13012485,General Cell,Human
+Ma-Mel-28,Other,Melanoma,Lymph node,https://www.culturecollections.org.uk/nop/product/ma-mel-28,13012515,General Cell,Human
+Ma-Mel-19,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/ma-mel-19,13012460,General Cell,Human
+LIM1863,Carcinoma,Adenocarcinoma,Intestine,https://www.culturecollections.org.uk/nop/product/lim1863-3,17020201,General Cell,Human
+NZM40,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/nzm40,17020212,General Cell,Human
+HT29-5F12,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ht29-5f12-5,15121702,General Cell,Human
+HT29-5M12,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/ht29-5m12,15121707,General Cell,Human
+Hep G2,Carcinoma,Hepatocarcinoma,Liver,https://www.culturecollections.org.uk/nop/product/hep-g2,85011430,General Cell,Human
+COV434,Tumour,Granulosa Tumour,Ovary,https://www.culturecollections.org.uk/nop/product/cov434,07071909,General Cell,Human
+DMS 454,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/dms-454,95062832,General Cell,Human
+8505C,Carcinoma,Carcinoma,Thyroid gland,https://www.culturecollections.org.uk/nop/product/8505c,94090184,General Cell,Human
+KARPAS-417,Myeloma,Myeloma,Blood,https://www.culturecollections.org.uk/nop/product/karpas-417,06100302,General Cell,Human
+FLO-1,Carcinoma,Adenocarcinoma,Oesophagus,https://www.culturecollections.org.uk/nop/product/flo-1,11012001,General Cell,Human
+G-292 Clone A141B1,Sarcoma,Osteosarcoma,Bone,https://www.culturecollections.org.uk/nop/product/g-292-clone-a141b1,90110522,General Cell,Human
+HMVII,Other,Melanoma,Other,https://www.culturecollections.org.uk/nop/product/hmvii,92042701,General Cell,Human
+AGS,Carcinoma,Adenocarcinoma,Stomach,https://www.culturecollections.org.uk/nop/product/ags,89090402,General Cell,Human
+H-EMC-SS,Sarcoma,Chondrosarcoma,Muscle,https://www.culturecollections.org.uk/nop/product/h-emc-ss,94042258,General Cell,Human
+KG-1,Leukaemia,Myeloid Leukaemia,Bone,https://www.culturecollections.org.uk/nop/product/kg-1,86111306,General Cell,Human
+KARPAS-231,Leukaemia,Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/karpas-231,06120601,General Cell,Human
+MOLT-4,Leukaemia,Lymphoblastic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/molt-4-2,85011413,General Cell,Human
+MEWO,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/mewo,93082609,General Cell,Human
+MDST8,Carcinoma,Carcinoma,Colon,https://www.culturecollections.org.uk/nop/product/mdst8,99011801,General Cell,Human
+MCC26,Carcinoma,Carcinoma,Skin,https://www.culturecollections.org.uk/nop/product/mcc26-3,10092304,General Cell,Human
+HuP-T3,Carcinoma,Adenocarcinoma,Pancreas,https://www.culturecollections.org.uk/nop/product/hup-t3,93121055,General Cell,Human
+JM,Leukaemia,Lymphoblastic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/jm,86010201,General Cell,Human
+PC-9,Carcinoma,Adenocarcinoma,Lung,https://www.culturecollections.org.uk/nop/product/pc-9,90071810,General Cell,Human
+NCI-H510A,Cancer,Small Cell Cancer,Lung,https://www.culturecollections.org.uk/nop/product/nci-h510a,96020944,General Cell,Human
+OV7,Carcinoma,Carcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/ov7,96020764,General Cell,Human
+NCI-H292,Carcinoma,Carcinoma,Lung,https://www.culturecollections.org.uk/nop/product/nci-h292,91091815,General Cell,Human
+PA-1,Carcinoma,Teratocarcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/pa-1,90013101,General Cell,Human
+OAW28,Carcinoma,Adenocarcinoma,Ovary,https://www.culturecollections.org.uk/nop/product/oaw28,85101601,General Cell,Human
+RT4,Carcinoma,Carcinoma,Bladder,https://www.culturecollections.org.uk/nop/product/rt4,91091914,General Cell,Human
+Sci-1,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/sci-1,96090513,General Cell,Human
+BE(2)-M17,Blastoma,Neuroblastoma,Brain,https://www.culturecollections.org.uk/nop/product/be2-m17,95011816,General Cell,Human
+SW 620,Carcinoma,Adenocarcinoma,Colon,https://www.culturecollections.org.uk/nop/product/sw-620,87051203,General Cell,Human
+SK-N-F1,Blastoma,Neuroblastoma,Brain,https://www.culturecollections.org.uk/nop/product/sk-n-f1,94092304,General Cell,Human
+SUP-T1,Lymphoma,Lymphoma,Blood,https://www.culturecollections.org.uk/nop/product/sup-t1,95013123,General Cell,Human
+SK-HEP-1,Carcinoma,Adenocarcinoma,Liver,https://www.culturecollections.org.uk/nop/product/sk-hep-1,91091816,General Cell,Human
+SK-N-AS,Blastoma,Neuroblastoma,Brain,https://www.culturecollections.org.uk/nop/product/sk-n-as,94092302,General Cell,Human
+U-87 MG,Cancer,Cancer,Brain,https://www.culturecollections.org.uk/nop/product/u-87-mg,89081402,General Cell,Human
+SW 1463,Carcinoma,Adenocarcinoma,Rectum,https://www.culturecollections.org.uk/nop/product/sw-1463,90112713,General Cell,Human
+CCRF-CEM,Leukaemia,Lymphoblastic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/ccrf-cem,85112105,General Cell,Human
+Detroit 562,Carcinoma,Squamous Cell Carcinoma,Other,https://www.culturecollections.org.uk/nop/product/detroit-562,87042205,General Cell,Human
+B16 melanoma 4A5,Other,Melanoma,Skin,https://www.culturecollections.org.uk/nop/product/b16-melanoma-4a5,94042254,General Cell,Mouse
+VCaP,Cancer,Prostate Cancer,Prostate gland,https://www.culturecollections.org.uk/nop/product/vcap,06020201,General Cell,Human
+A.704,Carcinoma,Carcinoma,Kidney,https://www.culturecollections.org.uk/nop/product/a704,93020513,General Cell,Human
+NH17,Leukaemia,Lymphoblastic Leukaemia,Blood,https://www.culturecollections.org.uk/nop/product/nh17,92111101,General Cell,Human

@@ -1,0 +1,139 @@
+﻿Inhibitor;Target;Pathway
+Regorafenib;KIT, RET, TIE2, VEGFR;VEGF/TIE2/KIT/RET signaling
+Pazopanib;KIT, PDGFR, VEGFR;VEGF/PDGFR/KIT signaling
+Sunitinib;KIT, PDGFR, VEGFR;VEGF/PDGFR/KIT signaling
+Sunitinib;PDGFR, VEGFR, c-KIT;Angiogenesis signaling
+Lenvatinib;FGFR, RET, VEGFR;VEGF/FGFR/RET signaling
+Axitinib;VEGFR;VEGF signaling (angiogenesis)
+Fostamatinib;Syk;Syk signaling (immune signaling)
+Entrectinib;ALK, ROS1, TRK (NTRK);ROS1/ALK/TRK signaling
+Sorafenib;RAF, VEGFR;MAPK/ERK pathway
+Everolimus;mTOR (via FKBP12);PI3K/AKT/mTOR pathway
+Temsirolimus;mTOR (via FKBP12);PI3K/AKT/mTOR pathway
+Cabozantinib;MET, RET, VEGFR;MET/VEGF/RET signaling
+Binimetinib;MEK1/2;MAPK/ERK pathway
+Cobimetinib;MEK1/2;MAPK/ERK pathway
+Dabrafenib;BRAF;MAPK/ERK pathway
+Encorafenib;BRAF;MAPK/ERK pathway
+Erlotinib;EGFR;MAPK/ERK pathway
+PD0325901;MEK1/2;MAPK/ERK pathway
+PLX8394;BRAF;MAPK/ERK pathway
+SCH772984;ERK1/2;MAPK/ERK pathway
+Selumetinib;MEK1/2;MAPK/ERK pathway
+Sorafenib;BRAF, RAF1;MAPK/ERK pathway
+Sorafenib;PDGFR, RAF, VEGFR;MAPK/ERK, VEGF signaling
+Trametinib;MEK1/2;MAPK/ERK pathway
+Tofacitinib;JAK1/3;JAK/STAT pathway
+Ruxolitinib;JAK1/2;JAK/STAT pathway
+Midostaurin;FLT3, KIT;FLT3/KIT signaling
+Gilteritinib;FLT3;FLT3 signaling (RTK pathway)
+Vandetanib;EGFR, RET, VEGFR;EGFR/VEGF/RET signaling
+Afatinib;EGFR, HER2;EGFR/HER2 signaling (RTK pathway)
+Lapatinib;EGFR, HER2;EGFR/HER2 signaling (RTK pathway)
+Neratinib;EGFR, HER2;EGFR/HER2 signaling (RTK pathway)
+Osimertinib;EGFR (T790M-specific);EGFR signaling (RTK pathway)
+U0126;MEK1/2;MAPK/ERK pathway
+Ulixertinib (BVD-523);ERK1/2;MAPK/ERK pathway
+Gefitinib;EGFR;PI3K/AKT pathway
+Erlotinib;EGFR;EGFR signaling (RTK pathway)
+Gefitinib;EGFR;EGFR signaling (RTK pathway)
+Pexidartinib;CSF1R, KIT;CSF1R/KIT signaling
+Palbociclib;CDK4/6;Cell cycle (Cyclin D-CDK4/6-Rb)
+Ribociclib;CDK4/6;Cell cycle (Cyclin D-CDK4/6-Rb)
+Abemaciclib;CDK4, CDK6;Cell cycle (Cyclin D-CDK4/6-Rb)
+Acalabrutinib;BTK;B-cell receptor (BCR) signaling
+Ibrutinib;BTK;B-cell receptor (BCR) signaling
+Zanubrutinib;BTK;B-cell receptor (BCR) signaling
+Vemurafenib;BRAF;MAPK signaling
+Dasatinib;BCR-ABL, Src;Cell growth and survival
+Bosutinib;BCR-ABL, Src;BCR-ABL/Src signaling
+Dasatinib;BCR-ABL, Src;BCR-ABL/Src signaling
+Imatinib;BCR-ABL, KIT, PDGFR;BCR-ABL/KIT/PDGFR signaling
+Imatinib;BCR-ABL, PDGFR, c-KIT;Cell proliferation, survival signaling
+Ponatinib;BCR-ABL (incl. T315I);BCR-ABL signaling (RTK pathway)
+Asciminib;BCR-ABL;BCR-ABL signaling (RTK pathway)
+Nilotinib;BCR-ABL;BCR-ABL signaling (RTK pathway)
+Crizotinib;ALK, MET, ROS1;ALK/ROS1/MET signaling
+Lorlatinib;ALK, ROS1;ALK/ROS1 signaling (RTK pathway)
+Brigatinib;ALK, EGFR;ALK/EGFR signaling (RTK pathway)
+Crizotinib;ALK, c-MET;Cell proliferation, survival
+Alectinib;ALK;ALK signaling (RTK pathway)
+Ceritinib;ALK;ALK signaling (RTK pathway)
+Capivasertib (AZD5363);AKT;PI3K/AKT/mTOR pathway
+Ipatasertib;AKT;PI3K/AKT/mTOR pathway
+MK-2206;AKT;PI3K/AKT/mTOR pathway
+Abemaciclib;CDK4/6;
+Acalabrutinib;BTK;
+Afatinib;ErbB1/2/4;
+Alectinib;ALK, RET;
+Alpelisib;PI3K;
+Avapritinib;PDGFRα;
+Zanubrutinib;BTK;
+Vemurafenib;BRAF;
+Vandetanib;VEGFR;
+Upadacitinib;JAK1/2;
+Umbralisib;PI3K;
+Tucatinib;ErbB1/2/4, HER2;
+Trilaciclib;CDK4/6;
+Trametinib;MEK1/2;
+Tofacitinib;JAK1/3;
+Tivozanib;VEGFR;
+Tepotinib;MET;
+Temsirolimus;mTOR (via FKBP12);
+Sunitinib;VEGFR;
+Sorafenib;VEGFR;
+Sirolimus;mTOR (via FKBP12);
+Selumetinib;MEK1/2;
+Selpercatinib;RET;
+Ruxolitinib;JAK1/3, TYK;
+Ripretinib;KIT, PDGFRα;
+Ribociclib;CDK4/6;
+Regorafenib;VEGFR;
+Pralsetinib;RET;
+Ponatinib;BCR-ABL;
+Pexidartinib;CSF1R;
+Pemigatinib;FGFR;
+Pazopanib;VEGFR;
+Palbociclib;CDK4/6;
+Osimertinib;EGFR;
+Olmutinib;EGFR;
+Nintedanib;FGFR;
+Nilotinib;BCR-ABL;
+Netarsudil;ROCK1/2;
+Neratinib;ErbB1/2/4, HER2;
+Midostaurin;FLT3;
+Lorlatinib;ALK;
+Lenvatinib;RET, VEGFR;
+Larotrectinib;TRK (NTRK);
+Lapatinib;EGFR;
+Infigratinib;FGFR;
+Imatinib;BCR-ABL;
+Idelalisib;PI3K;
+Ibrutinib;BTK;
+Gilteritinib;FLT3;
+Gefitinib;EGFR;
+Fostamatinib;Syk;
+Fedratinib;JAK1/2;
+Fasudil;ROCK1/2;
+Everolimus;mTOR (via FKBP12);
+Erlotinib;EGFR;
+Erdafitinib;FGFR;
+Entrectinib;ROS1;
+Encorafenib;BRAF;
+Duvelisib;PI3K;
+Dasatinib;BCR-ABL;
+Dacomitinib;EGFR;
+Dabrafenib;BRAF;
+Crizotinib;ALK, ROS1;
+Copanlisib;PI3K;
+Cobimetinib;MEK1/2;
+Ceritinib;ALK;
+Capmatinib;c-MET;
+Cabozantinib;RET;
+Brigatinib;ALK;
+Bosutinib;BCR-ABL;
+Binimetinib;MEK1/2;
+Baricitinib;JAK1/2;
+Axitinib;VEGFR;
+Afuresertib;AKT;
+HSND80;MNK/p70S6K;
