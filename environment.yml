@@ -1,0 +1,18 @@
+name: jupyter_env
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - ninja
+  - cmake
+  - gxx_linux-64
+  - gcc_linux-64
+  - cudatoolkit-dev
+  - compilers
+  - gcc=11
+  - gxx=11
+  - python-magic
+  - libmagic
+prefix: /home/aheller/miniconda3/envs/jupyter_env
