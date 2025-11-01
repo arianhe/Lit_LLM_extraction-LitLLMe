@@ -264,8 +264,10 @@ if len(all_results) > 0:
             print(f"Kinase-related results saved to: 01_lung_cancer_kinase_related_drugs_opentargets.csv (with encoding error handling)")
 
         kinase_list = kinase_related['drug_name'].unique().tolist()
-        # Save to parquet for LLM
-        kinase_related.to_parquet(Path(PM_output_folder) / "01_lung_cancer_kinase_related_drugs_opentargets.parquet", index=False)
+
+        # Save unique kinase drug list to parquet for LLM
+        kinase_unique_df = pd.DataFrame({'drug_name': kinase_list})
+        kinase_unique_df.to_parquet(Path(PM_output_folder) / "01_lung_cancer_kinase_unique_drugs_opentargets.parquet", index=False)
 
         # Count kinase drug frequencies specifically
         kinase_drug_counter = Counter(kinase_related['drug_name'].tolist())
